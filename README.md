@@ -1,11 +1,14 @@
 # Code_Editor
-# Your Code Editor
 
-![Code Editor Logo](link/to/logo.png)
+
+
+https://github.com/jitendra3618/Code_Editor/assets/137607500/9723e70d-ef64-4cd9-8528-6363edb41212
+
+
 
 ## Overview
 
-Welcome to Your Code Editor! This is a simple yet powerful code editor built with HTML, CSS, and JavaScript. It provides a user-friendly interface for writing, editing, and previewing code in various programming languages.
+Welcome to Our Code Editor! This is a simple yet powerful code editor built with HTML, CSS, and JavaScript. It provides a user-friendly interface for writing, editing, and previewing code in various programming languages.
 
 ## Features
 
@@ -39,9 +42,9 @@ Welcome to Your Code Editor! This is a simple yet powerful code editor built wit
 3. **Customizing Themes:**
     - Explore and choose from the available themes to customize the editor's appearance.
 
-## Demo
+## Live Link
 
-[Insert Link to Live Demo]
+https://jitendra3618.github.io/Code_Editor/
 
 ## Contributing
 
@@ -51,10 +54,7 @@ If you'd like to contribute to this project, please follow the [Contributing Gui
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgments
 
-- Special thanks to [List of Contributors] for their contributions.
-- Inspired by [Source of Inspiration].
 
 ## Contact
 
